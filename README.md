@@ -44,4 +44,4 @@ O **Bellare** é um cartão de apresentação pessoal com links diretos para red
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/VidaRealDoKim/Bellare.git
+git clone [https://github.com/VidaRealDoKim/CartaoDeVisitas.git]
