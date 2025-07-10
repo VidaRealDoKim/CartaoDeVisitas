@@ -37,7 +37,6 @@ O **Bellare** é um cartão de apresentação pessoal com links diretos para red
 > Veja o projeto ao vivo:
 
 🔗 [Clique aqui para acessar via GitHub Pages](https://vidarealdokim.github.io/CartaoDeVisitas)  
-*(substitua com seu link correto se for diferente)*
 
 ---
 
